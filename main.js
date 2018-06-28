@@ -5,6 +5,8 @@
 // NOTE: in the future we'll have a wildcard option to allow retreiving all
 // features
 var g_interestedInFeatures = [
+  'RoundStart',
+  'MatchEnd',
   'kills',
   'death',
   'matchinfo',
